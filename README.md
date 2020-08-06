@@ -77,7 +77,7 @@ The size of the sliding window was set to match the shape of the signal in the s
 
 Because of the way the window for the adaptive threshold is slided over the RDM matrix, an unprocessed edge of the half size of the window remains in the result. This edge area was set to 0 to suppress the invalid values.
 
-2. ### RDM and CFAR Results
+### 2. RDM and CFAR Results
 
 The following images show the Range Doppler Map of the generated radar signal and the thresholded RDM after applying CFAR (Constand False Alarm Rate) thresholding.
 
