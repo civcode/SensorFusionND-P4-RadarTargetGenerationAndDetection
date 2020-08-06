@@ -79,7 +79,7 @@ Because of the way the window for the adaptive threshold is slided over the RDM 
 
 ### 2. RDM and CFAR Results
 
-The following images show the Range Doppler Map of the generated radar signal and the thresholded RDM after applying CFAR (Constand False Alarm Rate) thresholding.
+The following images show the Range Doppler Map of the generated radar signal and the processed RDM after applying CFAR (Constand False Alarm Rate) thresholding.
 
 ![][img01]
 
